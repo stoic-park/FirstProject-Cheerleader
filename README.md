@@ -2,8 +2,8 @@
 
 ## web page
 
-![ezgif com-crop (2)](https://user-images.githubusercontent.com/55645972/76159789-33fd8580-6167-11ea-84ca-60ae5c03fa3c.gif)
-![ezgif com-crop (3)](https://user-images.githubusercontent.com/55645972/76159803-568f9e80-6167-11ea-9f05-42cb1c5ce67d.gif)
+
+
 
 
 ## Technical Stack
